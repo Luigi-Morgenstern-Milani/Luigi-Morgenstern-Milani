@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 
-👋 Olá! Meu nome é Luigi Morgenstern Milani, sou estudante de **Engenharia de Software** na **PUCPR** (4º período de 8). Desde de pequeno sou fascinado pela tecnologia, e sempre gostei de resolver problemas e trabalhar em equipe.
+👋 Olá! Meu nome é Luigi Morgenstern Milani, sou estudante de **Engenharia de Software** na **PUCPR** (5º período de 8). Desde de pequeno sou fascinado pela tecnologia, e sempre gostei de resolver problemas e trabalhar em equipe.
 
 ## 🔍 Atualmente, estou em busca de uma oportunidade de **estágio** na área de desenvolvimento de software.
 
